@@ -1,0 +1,83 @@
+[
+  {
+    "name": "DRAW IT",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25132250/Draw-It-featured-image.jpg",
+    "intro": "A rapid-fire game of competitive drawing launched in March 2019",
+    "intro1": "#1 APP IN USA, UK, AUSTRALIA, CANADA AND MORE",
+    "link": "https://www.kwalee.com/draw-it/",
+    "desc": "Put it to the test in Draw It, a rapid-fire drawing game in which you compete against other players (and the clock!) by doodling the prompts that appear on-screen! Testing both your speed and your drawing ability, the challenge is to draw accurately enough for it to be identified while also completing as many drawings as possible before time runs out.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "ROCKET SKY!",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25132716/Rocket-Sky-featured-screen.jpg",
+    "intro": "A high-flying game of intergalactic fuel management, developed by DP Space AG and published by Kwalee in July 2019..",
+    "intro1": "#1 APP IN UK, CANADA, GERMANY AND MANY MORE",
+    "link": "https://www.kwalee.com/rocket-sky/",
+    "desc": "In this compulsive hyper-casual arcade game, players are tasked with unlocking powerful new rockets and upgrades as they strive for that record-breaking launch. Going higher and higher with each new launch comes down not only to the sheer power of the rocket, but also how well you manage your fuel.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "SHOOTOUT 3D",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25133319/Shootout-3D-featured-screen.jpg",
+    "intro": "A high-stakes puzzle game in which you must aim perfectly or pay the price, launched in July 2019.",
+    "intro1": "WINNER OF 'BEST PUZZLE GAME' AT TIGA AWARDS",
+    "link": "https://www.kwalee.com/shootout-3d/",
+    "desc": "n this high-stakes puzzle game, there’s only one goal: to protect yourself and civilians while taking out the bad guys! Aim carefully, activate traps and use objects to your advantage in a puzzle game that ups the ante.Shootout 3D puts you in intense scenarios in which you are outnumbered and outgunned, challenging you to shoot your way out. But there’s a twist: shifting your aim also causes your enemies to move accordingly, which means that you can turn their guns on one another.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "BAKE IT",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25133811/Bake-It-banner.jpg",
+    "intro": "Create the perfect bake in this delicious baking game, launched in April 2020.",
+    "intro1": "#1 GAME IN 'SIMULATION' CATEGORY IN 20 COUNTRIES",
+    "link": "https://www.kwalee.com/bake-it/",
+    "desc": "Have you got what it takes to be a master baker? Match your bakes to your customers’ orders and wow them with your beautiful mixtures and toppings, but beware: your customers can be very demanding.In this hyper-casual baking simulation, you’ll use the touchscreen to pour out your cake mixture before applying your choice of icing, glazes and incredible toppings. Bake It is a tactile mobile baking experience suitable for bakers of all experience levels, but it also offers a challenge as you tailor your creations as closely as possible to the orders you’re given.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "JETPACK JUMP",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25134346/Jetpack-Jump-featured-screen.jpg",
+    "intro": "A futuristic sports game which combines triple jump with jetpack-powered leaps, this influential hyper-casual title was launched in May 2019.",
+    "intro1": "#1 GAME IN 'SPORTS' CATEGORY IN 140 COUNTRIES",
+    "link": "https://www.kwalee.com/jetpack-jump-2/",
+    "desc": "It’s track and field, but not as you know it! Time your initial jumps perfectly to get ready for launch, before taking a jetpack-powered leap into the stratosphere to reach new distances.Extreme triple jump’ might be the neatest summary of Jetpack Jump, which has become one of our most successful and iconic games, but that simple concept (along with a jetpack!) has powered it to incredible heights.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "LINE UP: DRAW THE CRIMINAL",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/07/23100621/Line-Up-banner.jpg",
+    "intro": "Identify the culprit using your artistic skills in the ultimate police sketch artist simulator, launched in July 2020.",
+    "intro1": "#1 SIMULATION GAME IN 21 COUNTRIES",
+    "link": "https://www.kwalee.com/jetpack-jump-2/",
+    "desc": "Let your inner sketch artist roam free in Line Up: Draw the Criminal, as you help to identify and catch criminals by drawing the perpetrators as described by their witnesses!.A game to delight budding detectives, Line Up poses the question: how reliable is the memory of the witness and will your drawing be accurate enough to help you pick the real perp",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "LOOPER",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2020/06/25134953/Looper-featured-image.jpg",
+    "intro": "A joyous game of looping harmonies that puts your sense of rhythm to the test, launched in June 2018.",
+    "intro1": "#1 GAME IN 'MUSIC' CATEGORY IN 140 COUNTRIES",
+    "link": "https://www.kwalee.com/looper/",
+    "desc": "Take a trip through Looper! – a joyous, melodious casual game that puts your sense of rhythm and timing to the test.Every tap starts a colourful new beat that travels along increasingly complex constellations.Get your timing wrong and the beats could crash and burn. Get it right, however, and experience the simple satisfaction of looping harmony.Featuring hundreds of unique levels, each designed to soothe and satisfy your puzzling needs, Looper! is a music puzzle game like no other!.Launched back in June 2018, Looper! is a product of Creative Wednesdays and has nearly 40 million downloads. One of our earlier success stories, the game played a key role in our development to become a leading developer of hyper-casual mobile games.Proving that the simple pleasures of interactivity, rhythm and great music can combine to great effect, Looper! still stands out from the hyper-casual competition for its unique concept and focus on a more relaxing style of gameplay.",
+    "apple": true,
+    "google": true
+  },
+  {
+    "name": "GO FISH!",
+    "image-URL": "https://s3-us-west-2.amazonaws.com/kwcdn.kwalee.com/wp-content/uploads/2018/12/14154154/background-gofish.png",
+    "intro": "Cast your line, discover new fish and catch as many as you can in this arcade fishing game, launched in March 2018.",
+    "intro1": "#1 GAME IN USA, UK, AUSTRALIA AND MORE",
+    "link": "https://www.kwalee.com/looper/",
+    "desc": "Cast your line, reach the depths and catch as many fish as you can on your way back up!Go Fish! is the ultimate arcade fishing game and offers hours addictive fun – irrespective of how experienced you are with a real-life fishing rod.Why wait around for a bite when you can send your hook deep into the ocean and steer it to catch exactly the fish you want? Stack it high with the most valuable fish to earn more money and bolster your fish collection.Keep upgrading your gear to catch more fish and to dive ever deeper, making rare finds and discovering new species.With 20 million downloads since its launch in March 2018 Go Fish! was part of our first wave of Creative Wednesdays success stories, alongside the likes of Looper!. Fun fact: there is a meeting room named after this classic game at our headquarters in Leamington Spa!.",
+    "apple": true,
+    "google": true
+  }
+
+]
